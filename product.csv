@@ -1,0 +1,20 @@
+ ID: P001,Name: Apple, Category : Fruits, Price $3, Stock : 100
+ ID: P002,Name: Banana, Category : Fruits, Price $1, Stock :200
+ ID: P003,Name: Carrot, Category : Vegetables, Price $2, Stock :150
+ ID: P004,Name: Broccoli, Category : Vegetables,Price $2.5, Stock :80
+ ID: P005,Name: Chicken Breast, Category : Meat, Price $5, Stock :50
+ ID: P006,Name: Ground Beef, Category : Meat, Price $6, Stock :40
+ ID: P007,Name: Milk, Category : Dairy, Price $2, Stock :60
+ ID: P008,Name: Cheese, Category : Dairy, Price $4, Stock :30
+ ID: P009,Name: Eggs, Category : Dairy, Price $3, Stock :120
+ ID: P010,Name: Bread, Category : Bakery, Price $2, Stock :70
+ ID: P011,Name: Butter, Category : Dairy, Price $3.5, Stock :40
+ ID: P012,Name: Rice,  Category :Grains, Price $1.5, Stock :150
+ ID: P013,Name: Pasta, Category : Grains, Price $1.8, Stock :100
+ ID: P014,Name: Cereal, Category : Grains, Price $4, Stock :50
+ ID: P015,Name: Tomato, Category : Vegetables, Price $2.2, Stock :90
+ ID: P016,Name: Potato, Category : Vegetables, Price $1.5, Stock :180
+ ID: P017,Name: Onion, Category : Vegetables, Price $1.8, Stock :140
+ ID: P018,Name: Orange Juice, Category : Beverages, Price $3.5, Stock :50
+ ID: P019,Name: Coffee, Category : Beverages, Price $5, Stock :40
+ ID: P020,Name: Tea, Category : Beverages, Price $4, Stock :60
